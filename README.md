@@ -1,0 +1,3 @@
+# machine_learning_for_automatic_designing_of_buding_entrance_position
+公共建筑主入口的位置设定，在设计阶段需要考虑较多因素，除了规范之外，更多考虑周边道路等级、人流方向等。
+通过对已建成博物馆信息的收集、处理、形成可供机器学习训练的输入数据，通过神经网络训练，形成相关预测模型。
